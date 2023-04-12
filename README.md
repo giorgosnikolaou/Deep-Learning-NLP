@@ -7,8 +7,9 @@ Performed sentiment analysis on IMDb reviews using a variety of deep learning me
 * Recurrent Neural Networks
 * Using pre-trained BERT 
 
+When possible provided parts of the reports submitted with the assignments.
+
 
 ## Question Answering
 
 Developed entity span and a relation prediction models over the knowledge graph Wikidata, that can be used to implement a question answering engine .
-
