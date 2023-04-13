@@ -12,4 +12,4 @@ When possible provided parts of the reports submitted with the assignments.
 
 ## Question Answering
 
-Developed entity span and a relation prediction models over the knowledge graph Wikidata, that can be used to implement a question answering engine .
+Developed entity span and relation prediction models over the knowledge graph Wikidata, that can be used to implement a question answering engine .
