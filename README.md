@@ -5,7 +5,7 @@
 Performed sentiment analysis on IMDb reviews using a variety of deep learning methods for the course `Artificial Intelligence II`, namely:
 * Feed Forward Networks
 * Recurrent Neural Networks
-* Using pre-trained BERT 
+* Pre-trained BERT 
 
 When possible provided parts of the reports submitted with the assignments.
 
